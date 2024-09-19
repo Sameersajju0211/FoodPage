@@ -99,7 +99,7 @@ Feel free to contribute to this project by opening issues or submitting pull req
 
 ## Contact
 
-For any questions or feedback, you can reach out to [Your Name](mailto:your.email@example.com).
+
 
 ```
 
